@@ -6,11 +6,13 @@ This repository contains three machine learning and deep learning tasks implemen
 
 #  Project Structure
 
+```
 ├── Task 1: Random Forest Classification (Iris Dataset)
 ├── Task 2: Support Vector Machine (Churn Prediction)
 ├── Task 3: Neural Network (MNIST Dataset)
 ├── datasets/
 └── README.md
+```i
 
 
 # Task 1: Random Forest Classification (Iris Dataset)
