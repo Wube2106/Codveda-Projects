@@ -6,6 +6,7 @@ The projects are organized into **three levels: Basic, Intermediate, and Advance
 ---
 
 # 📁 Project Structure
+```
 
 ├── Level 1 (Basic ML)
 ├── Level 2 (Intermediate ML)
@@ -13,6 +14,7 @@ The projects are organized into **three levels: Basic, Intermediate, and Advance
 ├── datasets/
 └── README.md
 
+```
 
 ---
 
